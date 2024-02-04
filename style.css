@@ -104,5 +104,6 @@ p {
   .app-link {
     display: block;
     text-align: center;
+    margin: 0 12px;
   }
 }
